@@ -2,7 +2,7 @@
 
 **Bank Customer Churn Prediction** is a machine learning project that predicts whether a bank customer is likely to **leave (churn)** or **stay**.  
 
-![Bank Churn App Screenshot](images/app_screenshot.png)  
+![Bank Churn App Screenshot](bank.png)  
 *Screenshot of the interactive Streamlit/Jupyter App*
 
 ---
@@ -47,4 +47,4 @@ To include images in your repository:
 3. Reference the image in README using:  
 
 ```markdown
-![Alt Text](images/app_screenshot.png)
+![Alt Text](bank.png)
