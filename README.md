@@ -41,7 +41,7 @@ Users can input customer details using **Streamlit or Jupyter Widgets** and get 
 ## 🖼️ Adding Images Visualization
 
 ```markdown
-![Bank Customer Churn Prediction Histogram](hosto.png)
-![Bank Customer Churn Prediction Heatmap](hist.png)
-![Bank Customer Churn Prediction Histogram](barh.png)
+![Histogram](images/hosto.png)
+![Heatmap](images/hist.png)
+![Bar Chart](images/barh.png)
 
