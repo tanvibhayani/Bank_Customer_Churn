@@ -40,8 +40,7 @@ Users can input customer details using **Streamlit or Jupyter Widgets** and get 
 
 ## 🖼️ Adding Images Visualization
 
-```markdown
-![Histogram](hosto.png)
-![Heatmap](hist.png)
-![Bar Chart](barh.png)
+[Histogram](hosto.png)
+[Heatmap](hist.png)
+[Bar Chart](barh.png)
 
