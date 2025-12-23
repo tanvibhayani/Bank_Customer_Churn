@@ -47,4 +47,4 @@ To include images in your repository:
 3. Reference the image in README using:  
 
 ```markdown
-![Alt Text](bank.png)
+![Bank Customer Churn Prediction](bank.png)
