@@ -40,11 +40,5 @@ Users can input customer details using **Streamlit or Jupyter Widgets** and get 
 
 ## 🖼️ Adding Images
 
-To include images in your repository:
-
-1. Create a folder named `images` in your repository.  
-2. Place the image file inside, e.g., `images/app_screenshot.png`.  
-3. Reference the image in README using:  
-
 ```markdown
-![Bank Customer Churn Prediction](bank.png)
+![Bank Customer Churn Prediction Histogram](bank.png)
