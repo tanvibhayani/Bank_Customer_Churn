@@ -1,2 +1,50 @@
-# Bank_Customer_Churn
-Bank Customer Churn Prediction is a machine learning project aimed at predicting whether a bank customer is likely to leave (churn) or stay with the bank. The dataset typically contains customer information such as credit score, age, balance, estimated salary, tenure, number of products, credit card ownership, activity status, gender, and country.
+# 🏦 Bank Customer Churn Prediction
+
+**Bank Customer Churn Prediction** is a machine learning project that predicts whether a bank customer is likely to **leave (churn)** or **stay**.  
+
+![Bank Churn App Screenshot](images/app_screenshot.png)  
+*Screenshot of the interactive Streamlit/Jupyter App*
+
+---
+
+## 📄 Project Description
+
+This project uses customer data such as:
+
+- Credit Score
+- Age
+- Balance
+- Estimated Salary
+- Tenure
+- Number of Products
+- Credit Card Ownership
+- Activity Status
+- Gender
+- Country
+
+The project applies **data preprocessing, feature engineering, and machine learning algorithms** (Random Forest, Logistic Regression, XGBoost) to predict customer churn.  
+
+**Interactive Interface:**  
+Users can input customer details using **Streamlit or Jupyter Widgets** and get **real-time predictions**.
+
+---
+
+## 🔑 Key Highlights
+
+- Identify customers at risk of churn  
+- Helps in proactive customer retention strategies  
+- Demonstrates end-to-end ML workflow:  
+  `Data preprocessing → Model training → Deployment`
+
+---
+
+## 🖼️ Adding Images
+
+To include images in your repository:
+
+1. Create a folder named `images` in your repository.  
+2. Place the image file inside, e.g., `images/app_screenshot.png`.  
+3. Reference the image in README using:  
+
+```markdown
+![Alt Text](images/app_screenshot.png)
